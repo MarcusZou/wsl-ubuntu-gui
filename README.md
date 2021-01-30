@@ -68,11 +68,11 @@ sudo /etc/init.d/xrdp start
 #### Remote login
 Now in Windows, use Remote Desktop Connection to  connect `localhost:3390` to your desktop.
 
-[![Connect to WSL DE via Xrdp](rdp.png)](rdp.png)
+![Connect to WSL DE via Xrdp](images/rdp.png)
 
-[![Login to WSL DE](xorg.png)](xorg.png)
+![Login to WSL DE](images/xorg.png)
 
-[![Desktop of WSL via xrdp](xfce4-desktop.jfif)](xfce4-desktop.jfif)
+![Desktop of WSL via xrdp](images/xfce4-desktop.jfif)
 
 ##### Why the port change from 3389 to 3390?
 
