@@ -1,4 +1,4 @@
-# wsl-ubuntu-gui
+# wsl2-ubuntu-gui
 Setup Notes for installing WSL2 assisted Ubuntu GUI in Windows 10
 
 ## Linux on Windows: WSL2 with Desktop Environment via RDP
